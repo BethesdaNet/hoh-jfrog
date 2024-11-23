@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/psychics-of-alderaan/ktoad/pkg/things"
+	"github.com/BethesdaNet/hoh-ktoad/pkg/things"
 )
 
 func main() {
